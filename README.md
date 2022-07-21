@@ -1,4 +1,6 @@
 # Simple React JS Project
+![image](https://user-images.githubusercontent.com/50844224/180170250-77bdc78f-2df8-450b-9043-4632cff0b2fb.png)
+
 
 ## What is the use of this Repo
 
