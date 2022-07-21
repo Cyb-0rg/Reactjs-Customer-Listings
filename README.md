@@ -69,7 +69,10 @@ The Application Runs on **localhost:3000**
 
 3. **CustomerPics** Component : This Component Displays the picture of the selected customer. This Component gets its data from a hosting website that makes this projrct need an internet access to run fully. This Component is the Child Component of *Customers* Component
 
-2. **pageNotFound** Component : This Component Displays "404 ERROR NOT FOUND text and Link tag to go back home". Gets rendered if an unknown address is entered in the address bar of the browser after "localhost:3000/"
+4. **pageNotFound** Component : This Component Displays "404 ERROR NOT FOUND text and Link tag to go back home". Gets rendered if an unknown address is entered in the address bar of the browser after "localhost:3000/"
+
+![image](https://user-images.githubusercontent.com/50844224/180168142-f9d69337-6059-4c2c-9c8e-d490e68c0e2d.png)
+
 
 #### HTTP client
 
