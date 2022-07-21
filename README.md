@@ -58,6 +58,9 @@ The Application Runs on **localhost:3000**
 
 ## Application design
 
+![image](https://user-images.githubusercontent.com/50844224/180167438-5d52f6dd-1259-4051-bd01-d0d799c18cc4.png)
+
+
 #### Components
 
 1. **Customers** Component : This Component displays a list of customers. This Component gets the data from a json file in assets folder
