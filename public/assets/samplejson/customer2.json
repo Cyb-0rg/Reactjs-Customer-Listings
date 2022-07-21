@@ -1,0 +1,14 @@
+{
+	"id": 2,
+	"name": "Malcom X",
+	"email": "abcd@test.com",
+	"phone": "987654321",
+	"city": "idk",
+	"state": "idk",
+	"country": "Jamaica",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely",
+	"pic":  "https://icons.iconarchive.com/icons/icons-land/vista-people/256/Person-Male-Light-icon.png"
+
+}

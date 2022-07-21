@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"name": "John Smith",
+	"email": "jsmith@test.com",
+	"phone": "123456789",
+	"city": "idk",
+	"state": "idk",
+	"country": "cameroon",
+	"organization": "Company 1",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Has Bought a lot of products before and a high Value Customer",
+	"pic":  "https://icons.iconarchive.com/icons/icons-land/vista-people/256/Office-Customer-Male-Light-icon.png"
+}
